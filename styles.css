@@ -1,0 +1,23 @@
+body {
+  background-color: #ADD6E8;
+}
+
+p {
+  color: black;
+  font-family: Cursive;
+  text-align: Center;
+}
+
+h1 {
+  color: black;
+  font-family: Cursive;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  font-family: Cursive;
+  font-weight: bold;
+  text-align: Center;
+}
